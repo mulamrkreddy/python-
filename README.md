@@ -1,4 +1,3 @@
-jcat
-====
+Python 
 
-Hi, welcome to jed-i programme.
+python tutorial for bigneers
